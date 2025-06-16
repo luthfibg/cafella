@@ -1,9 +1,7 @@
 import { Card } from '@/app/ui/card'
 import React from 'react'
 
-type Props = {}
-
-const page = (props: Props) => {
+const page = () => {
   return (
     <div className="grid grid-cols-1 xl:grid-cols-3 gap-4 w-full h-full">
       {/* Panel kiri: Panel 1, 2, 3 */}

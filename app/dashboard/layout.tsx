@@ -3,7 +3,7 @@ import Drawer from "../ui/drawer";
 import { useState } from "react";
 import {
   BellIcon,
-  SunIcon,
+  // SunIcon,
   MoonIcon,
   UserCircleIcon,
 } from '@heroicons/react/24/outline';

@@ -2,9 +2,8 @@ import React from 'react'
 import Image from 'next/image'
 import { Card } from '@/app/ui/card'
 
-type Props = {}
 
-const page = (props: Props) => {
+const page = () => {
   return (
     <main className="flex items-center justify-center h-screen">
         <div className="flex flex-col items-center justify-center gap-5 h-full flex-1/4 bg-dark-choco-300 dark:bg-dark-choco-950 dark:text-white">
